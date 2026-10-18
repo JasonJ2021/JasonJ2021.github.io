@@ -1,0 +1,235 @@
+[
+  {
+    "name": "Dalian",
+    "country": "China",
+    "lat": 38.92,
+    "lng": 121.62,
+    "visits": ["2024-11-08"],
+    "boundaryCode": "210200"
+  },
+  {
+    "name": "Xiamen",
+    "country": "China",
+    "lat": 24.47979,
+    "lng": 118.08187,
+    "visits": ["2025-05-09"],
+    "boundaryCode": "350200"
+  },
+  {
+    "name": "Maastricht",
+    "country": "Netherlands",
+    "lat": 50.8488,
+    "lng": 5.7065,
+    "visits": ["2026-06"],
+    "boundaryQuery": "Maastricht, Netherlands"
+  },
+  {
+    "name": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.37403,
+    "lng": 4.88969,
+    "visits": ["2026-06"],
+    "boundaryQuery": "Amsterdam, Netherlands"
+  },
+  {
+    "name": "Aachen",
+    "country": "Germany",
+    "lat": 50.77664,
+    "lng": 6.08342,
+    "visits": ["2026-06"],
+    "boundaryQuery": "Aachen, Germany"
+  },
+  {
+    "name": "Cologne",
+    "country": "Germany",
+    "lat": 50.94,
+    "lng": 6.95,
+    "visits": ["2026-06"],
+    "boundaryQuery": "Cologne, Germany"
+  },
+  {
+    "name": "Liège",
+    "country": "Belgium",
+    "lat": 50.6247,
+    "lng": 5.5994,
+    "visits": ["2026-06"],
+    "boundaryQuery": "Liège, Belgium"
+  },
+  {
+    "name": "Shanghai",
+    "country": "China",
+    "lat": 31.2304,
+    "lng": 121.4737,
+    "visits": [""],
+    "boundaryCode": "310000"
+  },
+  {
+    "name": "Beijing",
+    "country": "China",
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "visits": [""],
+    "boundaryCode": "110000"
+  },
+  {
+    "name": "Hangzhou",
+    "country": "China",
+    "lat": 30.2741,
+    "lng": 120.1551,
+    "visits": [""],
+    "boundaryCode": "330100"
+  },
+  {
+    "name": "Wenzhou",
+    "country": "China",
+    "lat": 27.9949,
+    "lng": 120.6994,
+    "visits": [""],
+    "boundaryCode": "330300"
+  },
+  {
+    "name": "Jiaxing",
+    "country": "China",
+    "lat": 30.7461,
+    "lng": 120.7555,
+    "visits": [""],
+    "boundaryCode": "330400"
+  },
+  {
+    "name": "Kuala Lumpur",
+    "country": "Malaysia",
+    "lat": 3.1412,
+    "lng": 101.6865,
+    "visits": ["2026-09"],
+    "boundaryQuery": "Kuala Lumpur, Malaysia"
+  },
+  {
+    "name": "Semporna",
+    "country": "Malaysia",
+    "lat": 4.4818,
+    "lng": 118.6112,
+    "visits": ["2026-09"],
+    "boundaryQuery": "Semporna, Sabah, Malaysia"
+  },
+  {
+    "name": "Kota Kinabalu",
+    "country": "Malaysia",
+    "lat": 5.9749,
+    "lng": 116.0724,
+    "visits": ["2026-09"],
+    "boundaryQuery": "Kota Kinabalu, Sabah, Malaysia"
+  },
+  {
+    "name": "Hong Kong",
+    "country": "China",
+    "lat": 22.3193,
+    "lng": 114.1694,
+    "visits": ["2025-07"],
+    "boundaryCode": "810000"
+  },
+  {
+    "name": "Tokyo",
+    "country": "Japan",
+    "lat": 35.6762,
+    "lng": 139.6503,
+    "visits": ["2024-06"],
+    "boundaryUrl": "../data/tokyo-23-wards.geojson"
+  },
+  {
+    "name": "Yokohama",
+    "country": "Japan",
+    "lat": 35.4333,
+    "lng": 139.65,
+    "visits": ["2024-06"],
+    "boundaryQuery": "Yokohama city, Kanagawa, Japan"
+  },
+  {
+    "name": "Osaka",
+    "country": "Japan",
+    "lat": 34.6937,
+    "lng": 135.5022,
+    "visits": ["2024-06"],
+    "boundaryQuery": "Osaka city, Japan"
+  },
+  {
+    "name": "Kyoto",
+    "country": "Japan",
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "visits": ["2024-06"],
+    "boundaryQuery": "Kyoto city, Japan"
+  },
+  {
+    "name": "Nara",
+    "country": "Japan",
+    "lat": 34.6851,
+    "lng": 135.8049,
+    "visits": ["2024-06"],
+    "boundaryQuery": "Nara city, Japan"
+  },
+  {
+    "name": "Uji",
+    "country": "Japan",
+    "lat": 34.8844,
+    "lng": 135.7998,
+    "visits": ["2024-06"],
+    "boundaryQuery": "Uji city, Kyoto, Japan"
+  },
+  {
+    "name": "Nanjing",
+    "country": "China",
+    "lat": 32.0603,
+    "lng": 118.7969,
+    "visits": [""],
+    "boundaryCode": "320100"
+  },
+  {
+    "name": "Suzhou",
+    "country": "China",
+    "lat": 31.2989,
+    "lng": 120.5853,
+    "visits": [""],
+    "boundaryCode": "320500"
+  },
+  {
+    "name": "Yangzhou",
+    "country": "China",
+    "lat": 32.3942,
+    "lng": 119.4129,
+    "visits": [""],
+    "boundaryCode": "321000"
+  },
+  {
+    "name": "Jinggangshan",
+    "country": "China",
+    "lat": 26.74622,
+    "lng": 114.28391,
+    "visits": ["2022-06"],
+    "boundaryCode": "360881",
+    "boundaryUrl": "https://geo.datav.aliyun.com/areas_v3/bound/360881.json"
+  },
+  {
+    "name": "Changsha",
+    "country": "China",
+    "lat": 28.2282,
+    "lng": 112.9388,
+    "visits": [""],
+    "boundaryCode": "430100"
+  },
+  {
+    "name": "Tongren",
+    "country": "China",
+    "lat": 27.71722,
+    "lng": 109.18528,
+    "visits": ["2024-10"],
+    "boundaryCode": "520600"
+  },
+  {
+    "name": "Macau",
+    "country": "China",
+    "lat": 22.1987,
+    "lng": 113.5439,
+    "visits": [""],
+    "boundaryCode": "820000"
+  }
+]
